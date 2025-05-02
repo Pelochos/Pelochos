@@ -1,9 +1,22 @@
 Hi!  I'm Pelochos.
 
-I'm a frontend web dev who specialises in optimised Shopify builds based in bonnie 🏴󠁧󠁢󠁳󠁣󠁴󠁿Scotland🏴󠁧󠁢󠁳󠁣󠁴󠁿.
+I'm a freelance frontend developer with a background in digital marketing.  My speciality is optimised Shopify builds and accesible web interfaces.
 
-<p>🛠TECH SKILLS🛠<br>
-HTML | CSS | JavaScript | Liquid (Shopify) | Responsive Design</p>
+🛠TECH STACK🛠
+<p>-🖥languages and frameworks:-<br>
+  HTML | CSS (flexbox/grid) | JavaScript | Shopify Liquid | JSON🖥</p>
+<p>-🧰tools and platforms:-<br>
+  Git | Shopify | VS Code | Linux Mint🧰</p>
+
+🗃PROJECTS🗃
+-🔐 Responsive Login Page UI – Clean, accessible login interface built with semantic HTML and modular CSS.  Features scalable layout, visual hierarchy and mobile-first design principles. Follows accesibility and modern UX best practices
+-🌡️Celsius-Fahrenheit Converter - A bilingual temperature conversion app (available in English and Spanish). Built with minimal JavaScript and fully functional with JavaScript disabled, following progressive enhancement principles
+-📘 Ecommerce UX Study – Technical audit of 100+ top-performing Shopify product page (ebook coming soon)
+
+🎯Goals🎯
+- Build a fully custom Shopify theme from scratch  
+- Contribute to open source (maybe something in the Shopify ecosystem)  
+- Continue leveling up my JavaScript with The Odin Project
 
 📬Let's connect📬
 I can be reached on:-
