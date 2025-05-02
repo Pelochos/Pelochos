@@ -1,7 +1,9 @@
 Hi!  I'm Pelochos.  I'm a frontend web dev who specialises in optimised Shopify builds based in bonnie 🏴󠁧󠁢󠁳󠁣󠁴󠁿Scotland🏴󠁧󠁢󠁳󠁣󠁴󠁿.
 
+
 🛠TECH SKILLS🛠
 <p>HTML | CSS | JavaScript | Liquid (Shopify) | Responsive Design</p>
+
 
 📬Let's connect📬
 I can be reached on:-
