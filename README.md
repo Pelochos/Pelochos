@@ -7,7 +7,7 @@ Hi!  I'm Pelochos.  I'm a frontend web dev who specialises in optimised Shopify 
 I can be reached on:-
 <br>
 [![Upwork](https://img.shields.io/badge/Upwork-link?style=for-the-badge&color=%231e1e1e)](https://www.upwork.com/freelancers/~0148233da128637afc?mp_source=share)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/david-walker-087401187/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-link?style=for-the-badge&color=%230a66c2)](https://www.linkedin.com/in/david-walker-087401187/)
 
 
 <!--
