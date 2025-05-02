@@ -5,7 +5,6 @@ I'm a frontend web dev who specialises in optimised Shopify builds based in bonn
 <p>🛠TECH SKILLS🛠<br>
 HTML | CSS | JavaScript | Liquid (Shopify) | Responsive Design</p>
 
-
 📬Let's connect📬
 I can be reached on:-
 <br>
