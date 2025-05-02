@@ -5,6 +5,7 @@ Hi!  I'm Pelochos.  I'm a frontend web dev who specialises in optimised Shopify 
 HTML | CSS | JavaScript | Liquid (Shopify) | Responsive Design
 
 📬Let's connect📬
+<br>
 [![Upwork](https://img.shields.io/badge/Upwork-link?style=for-the-badge&color=%231e1e1e)](https://www.upwork.com/freelancers/~0148233da128637afc?mp_source=share)
 
 
