@@ -3,16 +3,19 @@
 I'm a freelance frontend developer with a background in digital marketing.  My speciality is optimised Shopify builds and accesible web interfaces.
 
 ## 🛠TECH STACK🛠
-- 🖥languages and frameworks:-<br>
+- 🖥**languages and frameworks**-<br>
   HTML | CSS (flexbox/grid) | JavaScript | Shopify Liquid | JSON🖥
-- 🧰tools and platforms:-<br>
+- 🧰**tools and platforms**-<br>
   Git | Shopify | VS Code | Linux Mint🧰
 
   
 ## 🗃PROJECTS🗃
-- 🔐 Responsive Login Page UI – Clean, accessible login interface built with semantic HTML and modular CSS.  Features scalable layout, visual hierarchy and mobile-first design principles. Follows accesibility and modern UX best practices<br>
-- 🌡️Celsius-Fahrenheit Converter - A bilingual temperature conversion app (available in English and Spanish). Built with minimal JavaScript and fully functional with JavaScript disabled, following progressive enhancement principles<br>
-- 📘 Ecommerce UX Study – Technical audit of 100+ top-performing Shopify product page (ebook coming soon)</p>
+- **🔐Responsive Login Page UI**
+  Clean, accessible login interface built with semantic HTML and modular CSS.  Features scalable layout, visual hierarchy and mobile-first design principles. Follows accesibility and modern UX best practices🔐
+- **🌡️Celsius-Fahrenheit Converter**
+  A bilingual temperature conversion app (available in English and Spanish). Built with minimal JavaScript and fully functional with JavaScript disabled, following progressive enhancement principles🌡️
+- **📘Ecommerce UX Study**
+  Technical audit of 100+ top-performing Shopify product page (ebook coming soon)📘
 
 
 ## 🎯Goals🎯
