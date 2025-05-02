@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi!  I'm Pelochos.  I'm a frontend web dev who specialises in optimised Shopify builds based in bonnie 🏴󠁧󠁢󠁳󠁣󠁴󠁿Scotland🏴󠁧󠁢󠁳󠁣󠁴󠁿.
+
+🛠TECH SKILLS🛠
+- dev:
+HTML | CSS | JavaScript | Liquid (Shopify) | Responsive Design
+
+📬Let's connect📬
+[![Upwork](https://img.shields.io/badge/Upwork-link?style=for-the-badge&color=%231e1e1e)](https://www.upwork.com/freelancers/~0148233da128637afc?mp_source=share)
+
 
 <!--
 **Pelochos/Pelochos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
