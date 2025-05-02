@@ -1,4 +1,4 @@
-Hi!  I'm Pelochos.
+## Hi!  I'm Pelochos.
 
 I'm a freelance frontend developer with a background in digital marketing.  My speciality is optimised Shopify builds and accesible web interfaces.
 
