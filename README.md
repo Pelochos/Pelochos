@@ -18,8 +18,6 @@ I'm a freelance frontend developer with a background in digital marketing.  My s
   Clean, accessible login interface built with semantic HTML and modular CSS.  Features scalable layout, visual hierarchy and mobile-first design principles. Follows accesibility and modern UX best practices🔐
 - **🌡️Celsius-Fahrenheit Converter**<br>
   A bilingual temperature conversion app (available in English and Spanish). Built with minimal JavaScript and fully functional with JavaScript disabled, following progressive enhancement principles🌡️
-- **📘Ecommerce UX Study**<br>
-  Technical audit of 100+ top-performing Shopify product page (ebook coming soon)📘
 
 
 ## 🎯Goals🎯
