@@ -10,7 +10,7 @@ I'm a freelance frontend developer with a background in digital marketing.  My s
 
   
 ## 🗃PROJECTS🗃
-- **🗂️Tab Selector JS**
+- **🗂️Tab Selector JS**<br>
   A lightweight tabbed content interface built with semantic HTML, modular CSS, and vanilla JavaScript. Features animated transitions, accessible structure, and a clear separation of concerns. Designed as a learning project to explore DOM manipulation and UI state management.🗂️
 - **🔐Responsive Login Page UI**<br>
   Clean, accessible login interface built with semantic HTML and modular CSS.  Features scalable layout, visual hierarchy and mobile-first design principles. Follows accesibility and modern UX best practices🔐
