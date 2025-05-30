@@ -10,8 +10,10 @@ I'm a freelance frontend developer with a background in digital marketing.  My s
 
   
 ## 🗃PROJECTS🗃
+- **🌗Light/Dark Mode Switcher**<br>
+  A minimalist haiku display with a dark mode toggle.  Built entirely with vanilla JavaScript, the interface is dynamically generated and styled using reusable JS objects.  Demonstrates clean DOM manipulation, separation of concerns and theme switching logic using a simple, readable approach.🌗
 - **🗂️Tab Selector JS**<br>
-  A lightweight tabbed content interface built with semantic HTML, modular CSS, and vanilla JavaScript. Features animated transitions, accessible structure, and a clear separation of concerns. Designed as a learning project to explore DOM manipulation and UI state management.🗂️
+  A lightweight tabbed content interface built with semantic HTML, modular CSS, and vanilla JavaScript.  Features animated transitions, accessible structure and a clear separation of concerns.  Designed as a learning project to explore DOM manipulation and UI state management.🗂️
 - **🔐Responsive Login Page UI**<br>
   Clean, accessible login interface built with semantic HTML and modular CSS.  Features scalable layout, visual hierarchy and mobile-first design principles. Follows accesibility and modern UX best practices🔐
 - **🌡️Celsius-Fahrenheit Converter**<br>
